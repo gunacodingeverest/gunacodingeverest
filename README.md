@@ -92,7 +92,7 @@
 [Beautiful carousel](https://eager-goldwasser-92bd78.netlify.app/)
 
 
-npx codewing serve  (type in command prompt)
+<b>npx codewing serve</b>  (type in command prompt)
 
 
   
