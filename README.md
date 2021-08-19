@@ -2,6 +2,7 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
 </p>
 
+
 <br>
 
 <p align="left"> 
@@ -15,7 +16,10 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Gunavardhan Athuluri </h1>
-<h3 align="center">MERN Stack developer </h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=MERN+Stack+Developer;JavaScript+Developer+with+2%2B+Years+Experience;Passionate+on+Coding)](https://git.io/typing-svg)
+
+
 <p align="center">
 <a href = "mailto: gunavardhan158@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
