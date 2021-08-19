@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=MERN+Stack+Developer;JavaScript+Developer+with+2%2B+Years+Experience;Passionate+on+Coding)](https://git.io/typing-svg)
+
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
 </p>
@@ -14,17 +16,14 @@
   <img src="https://img.shields.io/badge/Lives-India-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Telugu-brightgreen" />
 </p>
-<hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Gunavardhan Athuluri </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=MERN+Stack+Developer;JavaScript+Developer+with+2%2B+Years+Experience;Passionate+on+Coding)](https://git.io/typing-svg)
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Gunavardhan Athuluri </h1>
 
 
 <p align="center">
 <a href = "mailto: gunavardhan158@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
 </p>
-
 
 
 <p align="center">
