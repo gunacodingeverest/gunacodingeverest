@@ -77,6 +77,25 @@
   
   <hr>
   <p align="center">
+  
+<h2 align="center">My Projects</h2>
+
+[Ecommerce Website](https://guna-online-store.herokuapp.com/)
+
+
+[One-One ideo Chat Application](https://one-to-one-meet.herokuapp.com/)
+
+
+[Covid Situation tracker](https://covid-situation-tracker.netlify.app/)
+
+
+[Beautiful carousel](https://eager-goldwasser-92bd78.netlify.app/)
+
+
+npx codewing serve  (type in command prompt)
+
+
+  
 <h2 align="center">Github stats :bar_chart:</h2>
 
 <h4 align="center">Visitor's count :eyes:</h4>
